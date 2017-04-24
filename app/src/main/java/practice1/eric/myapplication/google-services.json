@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "340222965329",
+    "firebase_url": "https://ppractice-1.firebaseio.com",
+    "project_id": "ppractice-1",
+    "storage_bucket": "ppractice-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340222965329:android:ff216ac5c9f3efa6",
+        "android_client_info": {
+          "package_name": "practice1.eric.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340222965329-6t66l3brisirppb8f9cia751f4c4o8kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt8dGLulFLNqkxWvMZtN-TcdEygezAnjM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
